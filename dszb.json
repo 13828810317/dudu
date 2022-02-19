@@ -82,7 +82,7 @@ CCTV-17农业,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 #轮播尾#
 
 #JM头#
-请输入密码，
+请输入密码，#
 _passwd = '1314'
 passwd = input('Please type your password: ')
 if userpasswd == _userpasswd == _passwd: #密码正确才能进入系统
