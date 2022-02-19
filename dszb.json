@@ -82,7 +82,8 @@ CCTV-17农业,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 #轮播尾#
 
 #JM头#
-_passwd = '1314'#
+_passwd = '1314'
+#JM尾#
 passwd = input('Please type your password: ')
 if userpasswd == _userpasswd == _passwd: #密码正确才能进入系统
     print('Welcome %s login the system!' % _userpasswd)
@@ -115,6 +116,5 @@ else:
     print("You couldn't try it anymore!")
 if userpasswd == _userpasswd == _passwd: 
     print('Welcome %s login the system!' % _userpasswd)
-    break  #break for过后，就不会执行最后面的else语句
-#JM尾#   
+    break  #break for过后，就不会执行最后面的else语句   
 }
