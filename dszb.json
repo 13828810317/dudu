@@ -2,7 +2,7 @@
 <fenlei>常看-央视-卫视-轮播-JM</fenlei>
 
 #常看头#
-CCTV-1综合,http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1#
+CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8#
 CCTV-5体育,http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5#
 CCTV-6电影,http://183.207.248.71/cntv/live1/cctv-6/cctv-6#
 湖南卫视,http://183.207.248.71/cntv/live1/hunanstv/hunanstv#
@@ -11,7 +11,7 @@ CCTV-6电影,http://183.207.248.71/cntv/live1/cctv-6/cctv-6#
 #常看尾#
 
 #央视头#
-CCTV-1综合,http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1#
+CCTV1-综合频道,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8#
 CCTV-2财经,http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2#
 CCTV-3综艺,http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3#
 CCTV-4国际,http://183.207.248.71/cntv/live1/cctv-4/cctv-4#
@@ -79,44 +79,5 @@ CCTV-17农业,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 五福星,http://120.233.116.115/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8#
 喜剧专场,http://120.233.116.115/tx.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8#
 李小龙,http://120.233.116.115/tx.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
-#轮播尾#
-
-#JM头#
-_passwd = '1314'
-passwd = input('Please type your password: ')
-if userpasswd == _userpasswd == _passwd: #密码正确才能进入系统
-    print('Welcome %s login the system!' % _userpasswd)
-else：
-    print("Invalid userpasswd.")
-    >>>for i in range (1,4):
->>>    print (i)
-1
-2
-3
-for i in range (1,4):
-    passwd = input('Please type your password: ')
-    if userpassswd == _userpasswd == _passwd: #密码正确才能进入系统
-        print('Welcome %s login the system!' % _userpasswd)
-    else:
-        print("Invalid userpasswd.")
-Please type your password:
-Invalid userpasswd.
-Please type your password:
-Invalid userpasswd.
-Please type your password: 1314
-Invalid userpasswd.
-for i in range (1,4):
-    passwd = input('Please type your password: ')
-    if userpasswd == _userpasswd == _passwd: #密码正确才能进入系统
-        print('Welcome %s login the system!' % _username)
-    else:
-        print("Invalid userpasswd.")
-else:
-    print("You couldn't try it anymore!")
-if userpasswd == _userpasswd == _passwd: 
-    print('Welcome %s login the system!' % _userpasswd)
-    break  #break for过后，就不会执行最后面的else语句 
-男同 720,http://253iptv.ml/dianshi/app.php?id=117#
-#JM尾#
-  
+#轮播尾# 
 }
